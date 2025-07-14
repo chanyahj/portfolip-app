@@ -32,7 +32,7 @@ export default function Home() {
   };
 
   const images = [
-    '/images/download-1.jpg',
+    'public/images/download-1.jpg',
     '/images/IMG_7974.JPG',
     '/images/53527976170_e57ec569db_o.JPG',
   ];
