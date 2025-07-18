@@ -33,8 +33,8 @@ export default function Home() {
 
   const images = [
     '/portfolip-app/images/download-1.jpg',
-    '/images/IMG_7974.JPG',
-    '/images/53527976170_e57ec569db_o.JPG',
+    '/portfolip-app/images/IMG_7974.JPG',
+    'portfolip-app/images/53527976170_e57ec569db_o.JPG',
   ];
 
   return (
