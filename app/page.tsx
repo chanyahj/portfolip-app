@@ -34,7 +34,7 @@ export default function Home() {
   const images = [
     '/portfolip-app/images/download-1.jpg',
     '/portfolip-app/images/IMG_7974.JPG',
-    '/portfolip-app/images/53527976170_e57ec569db_o.JPG',
+    '/portfolip-app/images/green-sweater.JPG',
   ];
 
   return (
@@ -77,7 +77,7 @@ export default function Home() {
 <div className="flex flex-col items-center justify-center mt-10 w-full">
         <div className="border-8 border-pink-200 rounded-b-3xl shadow-lg overflow-hidden p-2 w-fit">
           <Image
-            src="/porfolip-app/images/IMG_6076.JPG"
+            src='portfolip-app/images/IMG_6076.JPG'
             alt="Chanyah Johnson"
             width={300}
             height={400}
