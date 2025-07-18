@@ -65,22 +65,22 @@ export default function ProjectsPage() {
             <div className="space-y-10">
               {[
                 {
-                  title: "Portfolio Website",
+                  title: "Park 4 Class",
                   desc: "A personal portfolio site built with Next.js & TypeScript.",
                   src: "your-video-id",
                   link: "https://www.youtube.com/watch?v=your-video-id",
                 },
                 {
-                  title: "Weather App",
-                  desc: "A responsive weather application using OpenWeather API.",
-                  src: "weather-app",
-                  link: "https://www.youtube.com/watch?v=weather-app",
+                  title: "Music Blog",
+                  desc: "Check out this music blog that I made! I used HTML, CSS, and Javascript as well as MongoDB to persist Data",
+                  src: "https://www.youtube.com/embed/xKIVWJ0Ufqc?si=C1g78FMyyzA5Fhyh",
+                  link: "https://www.youtube.com/watch?v=JKWGq9S_qgg",
                 },
                 {
-                  title: "Expense Tracker",
-                  desc: "Track and categorize your expenses with interactive charts.",
+                  title: "Treender",
+                  desc: "A tree swiping app with tinder like functionality programmed in Java. Built on Android Studio. Contains snackbars, dialogues, interactivy with each button, and a menu.",
                   src: "expense-tracker",
-                  link: "https://www.youtube.com/watch?v=expense-tracker",
+                  link: "https://www.youtube.com/watch?v=JKWGq9S_qgg",
                 },
                 {
                   title: "MarketPlace GUI",
