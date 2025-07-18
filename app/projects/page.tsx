@@ -67,25 +67,25 @@ export default function ProjectsPage() {
                 {
                   title: "Park 4 Class",
                   desc: "A personal portfolio site built with Next.js & TypeScript.",
-                  src: "your-video-id",
+                  src: "Oujh1vIfo2E",
                   link: "https://www.youtube.com/watch?v=your-video-id",
                 },
                 {
                   title: "Music Blog",
                   desc: "Check out this music blog that I made! I used HTML, CSS, and Javascript as well as MongoDB to persist Data",
-                  src: "xKIVWJ0Ufqc?si=C1g78FMyyzA5Fhyh",
+                  src: "xKIVWJ0Ufqc",
                   link: "https://www.youtube.com/watch?v=JKWGq9S_qgg",
                 },
                 {
                   title: "Treender",
                   desc: "A tree swiping app with tinder like functionality programmed in Java. Built on Android Studio. Contains snackbars, dialogues, interactivy with each button, and a menu.",
-                  src: "expense-tracker",
+                  src: "JKWGq9S_qgg",
                   link: "https://www.youtube.com/watch?v=JKWGq9S_qgg",
                 },
                 {
                   title: "MarketPlace GUI",
                   desc: "This GUI models marketplace functionality.",
-                  src: "task-manager",
+                  src: "FNe0kE1KoJk",
                   link: "https://www.youtube.com/watch?v=FNe0kE1KoJk&t=293s",
                 },
               ].map((proj, idx) => (
