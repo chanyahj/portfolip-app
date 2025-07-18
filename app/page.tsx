@@ -77,7 +77,7 @@ export default function Home() {
 <div className="flex flex-col items-center justify-center mt-10 w-full">
         <div className="border-8 border-pink-200 rounded-b-3xl shadow-lg overflow-hidden p-2 w-fit">
           <Image
-            src='portfolip-app/images/IMG_6076.JPG'
+            src='portfolip-app/images/headshot.JPG'
             alt="Chanyah Johnson"
             width={300}
             height={400}
