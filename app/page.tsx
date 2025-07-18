@@ -32,7 +32,7 @@ export default function Home() {
   };
 
   const images = [
-    '/portfolip-app/images/download-1.jpg',
+    '/portfolip-app/images/headshot.JPG',
     '/portfolip-app/images/IMG_7974.JPG',
     '/portfolip-app/images/green-sweater.JPG',
   ];
