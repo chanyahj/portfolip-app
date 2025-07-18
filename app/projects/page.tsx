@@ -127,7 +127,7 @@ export default function ProjectsPage() {
               <Link href="/projects/ux-project-1">
                 <div className="border border-gray-300 rounded-lg p-6 shadow-md hover:shadow-lg hover:scale-105 transition-transform cursor-pointer">
                   <Image
-                    src="/images/big3-2.jpg"
+                    src="/portfolip-app/images/big3-2.jpg"
                     alt="UX Project 1 Preview"
                     width={500}
                     height={300}
@@ -140,7 +140,7 @@ export default function ProjectsPage() {
               <Link href="/projects/ux-project-2">
                 <div className="border border-gray-300 rounded-lg p-6 shadow-md hover:shadow-lg hover:scale-105 transition-transform cursor-pointer">
                   <Image
-                    src="/images/Big-3.png"
+                    src="/portfolip-app/images/Big-3.png"
                     alt="UX Project 2 Preview"
                     width={500}
                     height={300}
