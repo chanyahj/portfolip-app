@@ -73,7 +73,7 @@ export default function ProjectsPage() {
                 {
                   title: "Music Blog",
                   desc: "Check out this music blog that I made! I used HTML, CSS, and Javascript as well as MongoDB to persist Data",
-                  src: "https://www.youtube.com/embed/xKIVWJ0Ufqc?si=C1g78FMyyzA5Fhyh",
+                  src: "xKIVWJ0Ufqc?si=C1g78FMyyzA5Fhyh",
                   link: "https://www.youtube.com/watch?v=JKWGq9S_qgg",
                 },
                 {
