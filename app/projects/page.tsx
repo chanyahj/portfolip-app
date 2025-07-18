@@ -43,7 +43,7 @@ export default function ProjectsPage() {
         {/* Hero Section */}
         <div className="relative w-full h-96 mb-16">
         <Image
-          src="/images/images.jpg"
+          src="/portfolip-app/images/images.jpg"
           alt="Projects Page Background"
           fill
           objectFit="cover"
