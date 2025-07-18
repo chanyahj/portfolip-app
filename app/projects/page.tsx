@@ -68,13 +68,13 @@ export default function ProjectsPage() {
                   title: "Park 4 Class",
                   desc: "A personal portfolio site built with Next.js & TypeScript.",
                   src: "Oujh1vIfo2E",
-                  link: "https://www.youtube.com/watch?v=your-video-id",
+                  link: "https://www.youtube.com/watch?v=Oujh1vIfo2E",
                 },
                 {
                   title: "Music Blog",
                   desc: "Check out this music blog that I made! I used HTML, CSS, and Javascript as well as MongoDB to persist Data",
                   src: "xKIVWJ0Ufqc",
-                  link: "https://www.youtube.com/watch?v=JKWGq9S_qgg",
+                  link: "https://www.youtube.com/watch?v=xKIVWJ0Ufqc",
                 },
                 {
                   title: "Treender",
