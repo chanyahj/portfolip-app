@@ -88,7 +88,7 @@ export default function Home() {
           <p className="text-center text-lg text-gray-700">
             Hi! I am Chanyah and I am currently a Senior at Penn State University.
             I am a Human-Centered Design and Development major with a Security and Risk Analysis minor.
-            I am interested in a career in software development with a focus in UX design.
+            I am interested in a career in Product and Consulting.
           </p>
         </div>
       </div>

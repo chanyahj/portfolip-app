@@ -154,6 +154,9 @@ export default function ProjectsPage() {
           </section>
         )}
       </div>
+      <div>
+      <iframe className="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/RLNO5EUMkRHxB2W01ReGSv/CertHub?node-id=0-1&embed-host=share" allowFullScreen></iframe>
+      </div>
     </div>
     <footer className="mt-20 bg-gray-100 text-center py-8 border-t border-pink-300">
         <h4 className="text-xl font-semibold mb-2">Contact Me</h4>
