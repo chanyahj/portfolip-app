@@ -43,7 +43,7 @@ export default function ProjectsPage() {
         {/* Hero Section */}
         <div className="relative w-full h-96 mb-16">
         <Image
-          src="/portfolip-app/images/images.jpg"
+          src="/portfolip-app/images/images-2.jpg"
           alt="Projects Page Background"
           fill
           objectFit="cover"
@@ -127,14 +127,14 @@ export default function ProjectsPage() {
             <Link href="/projects/ux-project-3">
                 <div className="border border-gray-300 rounded-lg p-6 shadow-md hover:shadow-lg hover:scale-105 transition-transform cursor-pointer">
                   <Image
-                    src="/portfolip-app/images/Big-3.png"
+                    src="/portfolip-app/images/Preview.png"
                     alt="UX Project 3 Preview"
                     width={500}
                     height={300}
                     className="rounded mb-4"
                   />
                   <h3 className="text-xl font-semibold mb-2">CertHub</h3>
-                  <p className="text-gray-600">Designed a final high-fidelity prototype for an outfit generator application in Figma.</p>
+                  <p className="text-gray-600">Designed a final high-fidelity prototype for a mobile app for certification and skill training. Allows users to search for certifications and track upcoming exams.</p>
                 </div>
               </Link>
               <Link href="/projects/ux-project-1">
@@ -165,11 +165,12 @@ export default function ProjectsPage() {
               </Link>
              
             </div>
+            <iframe className="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/RLNO5EUMkRHxB2W01ReGSv/CertHub?node-id=0-1&embed-host=share" allowFullScreen></iframe>
           </section>
         )}
       </div>
       <div>
-      <iframe className="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/RLNO5EUMkRHxB2W01ReGSv/CertHub?node-id=0-1&embed-host=share" allowFullScreen></iframe>
+     
       </div>
     </div>
     <footer className="mt-20 bg-gray-100 text-center py-8 border-t border-pink-300">
