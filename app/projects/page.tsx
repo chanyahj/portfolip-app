@@ -66,7 +66,7 @@ export default function ProjectsPage() {
               {[
                 {
                   title: "Park 4 Class",
-                  desc: "A personal portfolio site built with Next.js & TypeScript.",
+                  desc: "A mobile app that allows users to search and save for favorite parking lots across their campus. Includes data persistence to save favorite lots added by users in each session",
                   src: "Oujh1vIfo2E",
                   link: "https://www.youtube.com/watch?v=Oujh1vIfo2E",
                 },
