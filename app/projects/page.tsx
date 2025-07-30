@@ -124,6 +124,19 @@ export default function ProjectsPage() {
           <section>
             <h2 className="text-3xl font-bold mb-6">UX Projects</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+            <Link href="/projects/ux-project-3">
+                <div className="border border-gray-300 rounded-lg p-6 shadow-md hover:shadow-lg hover:scale-105 transition-transform cursor-pointer">
+                  <Image
+                    src="/portfolip-app/images/Big-3.png"
+                    alt="UX Project 3 Preview"
+                    width={500}
+                    height={300}
+                    className="rounded mb-4"
+                  />
+                  <h3 className="text-xl font-semibold mb-2">CertHub</h3>
+                  <p className="text-gray-600">Designed a final high-fidelity prototype for an outfit generator application in Figma.</p>
+                </div>
+              </Link>
               <Link href="/projects/ux-project-1">
                 <div className="border border-gray-300 rounded-lg p-6 shadow-md hover:shadow-lg hover:scale-105 transition-transform cursor-pointer">
                   <Image
@@ -150,6 +163,7 @@ export default function ProjectsPage() {
                   <p className="text-gray-600">Designed a final high-fidelity prototype for an outfit generator application in Figma.</p>
                 </div>
               </Link>
+             
             </div>
           </section>
         )}
